@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    align-items: center;
+}
+h1{
+    color: #fff;
+}
+body{
+    background: rgb(13,11,11);
+background: linear-gradient(90deg, rgba(13,11,11,1) 100%, rgba(59,33,33,1) 100%, rgba(84,83,85,1) 100%);
+}
+.inputurl{
+    margin: 8% 0 2% 0;
+}
+
+.inputurl input{
+    width: 35%;
+    padding: 4px;
+    font-size: large;
+}
+.inputurl button, .btn{
+    padding: 5px;
+    font-size: large;
+}
+
+.card{
+    margin: 0 auto;
+    width: 20%;
+    height: 260px;
+    overflow: hidden;
+}
+.card img{
+    width: 100%;
+}
